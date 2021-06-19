@@ -1,0 +1,75 @@
+* SARJ
+** Introduction:
+   A joint research adventure by jaw & smart
+   
+*** Goal(ideas):
+    - to Explore our passions/interests/...
+    - to apply ourselves (to the best of our abilities)
+    - to learn/grow/discover/...
+    - ...
+
+*** Other:
+    - could add todo's here, make this like our research journal...
+
+**** TODO
+     - finalise the steps
+     - finalise our individual and shared interests 
+     - find interesting/fun/unique/creative/... ideas for each of the steps. 
+      
+** Topic:
+*** Individual interests:
+**** Jonathan:
+     - Fields
+       - math
+       - comp sci
+       - physics
+       - other sciences (chem, bio, social sci)
+       - humanities (art, film, music,...)
+        
+     - Areas:
+       - robotics
+       - (complex) systems
+       - foundations 
+       - .... 
+**** Sarah
+
+*** Joint interests:
+**** The list:
+     - quantum stuff
+     
+**** The "equation":
+     
+     The equation that we divised about what/how we want to do (things), which we can then apply to various different application
+ 
+     **It goes as follows**:
+
+     Over view of main steps: 
+         Step 1: Analyse the (appplied) science of some system
+             - more theoretical
+             - potential systems:
+               - **Extremes**
+               - Quantum stuff
+                  
+         Step 2: Model it 
+         Step 3: Apply the model in some (computationally) creative manner to some system
+             - more analytical
+             - potential systems: 
+               - climate stuff
+               - public health
+       
+
+***** Step 1 in depth
+      
+***** Step 2 in depth
+      - Inspiration
+        - cellular automata (so meaning build something similar)
+
+          
+***** Step 3 in depth 
+
+   
+  
+
+     
+
+     
