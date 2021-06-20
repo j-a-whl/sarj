@@ -116,7 +116,9 @@ From step 1, will already have some understanding of the problem definition and 
 	- why these?
 	- what do they show? 
 
-This step entails model exploration and justification, the next model application. (??)
+- Ideas:
+  - make our type of model (i.e. CA) 
+This step entails model exploration and justification, the next model application.
 
 ***** step 3: apply the model
 Based on choices made in step 2, create a model and include all relevant system aspects from step 1. This is the product, so will require the most thought and work. 
@@ -124,7 +126,7 @@ Based on choices made in step 2, create a model and include all relevant system 
 	- how do we expect the metrics chosen in step 2 to relate to the aims/objectives from step 1? 
 - collect results on the selected metrics 
 - follow best-computing practices for model: large files, imports etc. 
-
+  
 ***** step 4: analyse results, conclude 
 This largely depends on what is found in step 3; which results are collected and what they show. 
 - think about different methods of analysis and which are appropriate for the chosen metrics 
@@ -133,3 +135,6 @@ This largely depends on what is found in step 3; which results are collected and
 - why does this matter? 
 - what do our conclusions show? 
 	- be rigorous !   
+
+**** Project ideas(based on the equation):
+     
