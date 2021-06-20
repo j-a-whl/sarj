@@ -2,7 +2,7 @@
 ** Introduction:
    A joint research adventure by jaw & smart
    
-*** Goal(ideas):
+*** Goal (ideas):
     - to Explore our passions/interests/...
     - to apply ourselves (to the best of our abilities)
     - to learn/grow/discover/...
@@ -15,27 +15,47 @@
      - finalise the steps
      - finalise our individual and shared interests 
      - find interesting/fun/unique/creative/... ideas for each of the steps. 
-      
+     - begin examining different topics and more specific directions
+  
 ** Topic:
 *** Individual interests:
-**** Jonathan:
-     - Fields
+**** Jonathan
+     - Fields:
        - math
        - comp sci
        - physics
        - other sciences (chem, bio, social sci)
        - humanities (art, film, music,...)
-        
      - Areas:
        - robotics
        - (complex) systems
        - foundations 
        - .... 
 **** Sarah
+    - Fields:
+      - applied mathematics
+      - computational sciences 
+      - sociology 
+      - art (photography, VCS, history etc.)
+      - applied physics
+    - Areas:
+      - complexity + emergence 
+      - mathematical modelling
+      - computational maths, physics etc. applied to problems
 
 *** Joint interests:
-**** The list:
+**** The list/from the Venn diagram:
      - quantum stuff
+      - chemistry
+      - simulations
+      - computing and information
+      - qNNs
+      - ZX Calculus
+     - machine learning
+     - complexity, complex systems
+     - modelling 
+     - robotics
+     - foundations in mathematics, physics, comp sci
      
 **** The "equation":
      
@@ -43,28 +63,29 @@
  
      **It goes as follows**:
 
-     Over view of main steps: 
+     Overview of main steps: 
          Step 1: Analyse the (appplied) science of some system
              - more theoretical
              - potential systems:
                - **Extremes**
-               - Quantum stuff
-                  
+               - Quantum stuff (cross-computing)? 
          Step 2: Model it 
          Step 3: Apply the model in some (computationally) creative manner to some system
              - more analytical
              - potential systems: 
                - climate stuff
                - public health
-       
+         Step 4: End result! 
+             - analysis
+             - conclusions
 
 ***** Step 1 in depth
       
 ***** Step 2 in depth
       - Inspiration
         - cellular automata (so meaning build something similar)
+        - network theory
 
-          
 ***** Step 3 in depth 
 
    
