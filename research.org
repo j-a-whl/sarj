@@ -69,28 +69,67 @@
              - potential systems:
                - **Extremes**
                - Quantum stuff (cross-computing)? 
+               
          Step 2: Model it 
+         
          Step 3: Apply the model in some (computationally) creative manner to some system
              - more analytical
              - potential systems: 
                - climate stuff
                - public health
+               
          Step 4: End result! 
              - analysis
              - conclusions
 
-***** Step 1 in depth
-      
-***** Step 2 in depth
-      - Inspiration
-        - cellular automata (so meaning build something similar)
-        - network theory
+brainstorming the steps and adding more detail explaining what each will entail 
 
-***** Step 3 in depth 
+***** step 1: applied science of a system
+- choose a system 
+	- why this system? how is it relevant? so what? 
+- theoretical review and analysis 
+	- collect information about the relevant aspects of the system
+	- collate and link 
+- questions: 
+	- what physics is relevant to understanding the system? 
+	- what mathematics? 
+	- which of these aspects are essential to include in a model, which are not? 
+	- which modelling methods are appropriate and why? 
+- based on the above,
+-  select a specific aspect of the system to model, complete with relevant fundamentals
+- formulate research question(s) and objective(s) 
+- think about what we want to make conclusions on 
 
-   
-  
+***** step 2: the model / simulation
+From step 1, will already have some understanding of the problem definition and constraints, so will then need to find modelling methods that account for these and select one – need to perform a short search and analysis before creating the actual model. 
+- Inspiration
+      - cellular automata (build something similar)
+      - network theory
+- make clear problem definition
+- what resources do we need? 
+	- collect information on the type of model 
+	- examples of similar use 
+	- justifications for each choice 
+- cross-computing 
+- think about opportunities to compare more than one modelling method
+- decide which quantitative and qualitative aspects to explore/measure 
+	- why these?
+	- what do they show? 
 
-     
+This step entails model exploration and justification, the next model application. (??)
 
-     
+***** step 3: apply the model
+Based on choices made in step 2, create a model and include all relevant system aspects from step 1. This is the product, so will require the most thought and work. 
+- hypotheses: 
+	- how do we expect the metrics chosen in step 2 to relate to the aims/objectives from step 1? 
+- collect results on the selected metrics 
+- follow best-computing practices for model: large files, imports etc. 
+
+***** step 4: analyse results, conclude 
+This largely depends on what is found in step 3; which results are collected and what they show. 
+- think about different methods of analysis and which are appropriate for the chosen metrics 
+- verify our results 
+- compare to the literature where possible 
+- why does this matter? 
+- what do our conclusions show? 
+	- be rigorous !   
